@@ -1,0 +1,8 @@
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שני\A14 Ex02 LiorAsulin 304826753 OrOfer 301123725\A14_Ex02_1\obj\x86\Debug\A14_Ex02_1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שני\A14 Ex02 LiorAsulin 304826753 OrOfer 301123725\A14_Ex02_1\bin\Debug\A14_Ex02_1.exe
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שני\A14 Ex02 LiorAsulin 304826753 OrOfer 301123725\A14_Ex02_1\bin\Debug\A14_Ex02_1.pdb
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שני\A14 Ex02 LiorAsulin 304826753 OrOfer 301123725\A14_Ex02_1\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שני\A14 Ex02 LiorAsulin 304826753 OrOfer 301123725\A14_Ex02_1\obj\x86\Debug\A14_Ex02_1.exe
+C:\Users\Asus\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שני\A14 Ex02 LiorAsulin 304826753 OrOfer 301123725\A14_Ex02_1\obj\x86\Debug\A14_Ex02_1.pdb
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שני\A14 Ex02 LiorAsulin 304826753 OrOfer 301123725\A14_Ex02_1\obj\x86\Debug\A14_Ex02_1.exe
+C:\Users\אסף\Desktop\Dropbox\ליאור\מכללה\2014 סמסטר א'\C#\תרגילי הגשה\תרגיל הגשה שני\A14 Ex02 LiorAsulin 304826753 OrOfer 301123725\A14_Ex02_1\obj\x86\Debug\A14_Ex02_1.pdb
